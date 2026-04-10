@@ -12,7 +12,7 @@
     "firebase": "^10.14.0",
     "framer-motion": "^11.11.0",
     "lucide-react": "^0.441.0",
-    "next": "16.0.0",
+    "next": "16.0.7",                    // ← Ubah ke ini (paling aman untuk 16.0.x)
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",
@@ -25,9 +25,9 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.19",
     "eslint": "^9.0.0",
-    "eslint-config-next": "16.0.0",
+    "eslint-config-next": "16.0.7",     // ← Ubah juga ini
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
-}
+  }
