@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "MASUKKAN_API_KEY_ANDA",
-  authDomain: "project-id.firebaseapp.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "1:123456789:web:xxxxxxxxxx"
+  apiKey: "AIzaSyDUGXIMn_trR_GcACdxWq7EP-6gaZn4-Us",
+  authDomain: "mixrat-80708.firebaseapp.com",
+  projectId: "mixrat-80708",
+  storageBucket: "mixrat-80708.firebasestorage.app",
+  messagingSenderId: "400722262916",
+  appId: "1:400722262916:web:789636fa9087e820ab7bd1"
 };
 
 const app = initializeApp(firebaseConfig);
